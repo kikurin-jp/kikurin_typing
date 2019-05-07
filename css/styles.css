@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: -8px;
+}
+
+body {
+    font-family: 'Courie New', monospace;
+    text-align: center;
+}
+
+#main {
+    padding-top: 60px;
+}
+
+#target {
+    font-size: 48px;
+    letter-spacing: 3px;
+}
+
+.info {
+    color: #ccc;
+}
+
+.over {
+    background-color: #ffc9d7;
+    height: 100%;
+    width: 100%;
+}
